@@ -3,7 +3,7 @@
     Sets up a Node.js Tools for Visual Studio development environment from this branch.
     
 .Parameter code
-    [Optional] Launch instanace of VS
+    [Optional] Launch instance of VS
 
 .Parameter exp
     [Optional] Update TS language service and launch experimental instance of VS
